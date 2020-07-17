@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 
 Just a little note page on what to do:
+Learn this.
